@@ -1,3 +1,3 @@
 export const useUrl = () => {
-  return "http://localhost:3000";
+  return "https://delifood-server.onrender.com";
 };
