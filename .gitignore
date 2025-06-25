@@ -22,8 +22,6 @@ dist-ssr
 *.sln
 *.sw?
 
-*.json
-
 .env
 .env.local
 .env.*.local
